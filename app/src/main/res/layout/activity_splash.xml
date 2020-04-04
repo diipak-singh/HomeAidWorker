@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/faster_one"
-        android:text="Help At Home"
+        android:text="HomeAid"
         android:textColor="@color/colorBlack"
         android:textSize="22sp"
         android:textStyle="bold"
